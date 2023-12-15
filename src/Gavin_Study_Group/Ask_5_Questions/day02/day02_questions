@@ -1,0 +1,21 @@
+Q1: Write a simple "Hello World" code and run it without IntelliJ
+
+Q1: Describe your typical working day as an SDET
+
+Q2: What is the difference between an app and an application?
+
+Q3: What is the difference between "on-premise" and "hosted" application software?
+
+Q4: Write an automation code to navigate to https://codingbat.com/java and find multiple ways
+    to locate and print the text message under "Functional-1" heading
+
+Q5: What is the purpose of ‘this’ keyword?
+    To refer to the current object of a class, this keyword is used.
+    It is used as a pointer that differentiates between the global object
+    and the current object by referring to the current one.
+
+
+
+
+
+

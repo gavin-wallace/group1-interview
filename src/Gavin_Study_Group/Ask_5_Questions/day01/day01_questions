@@ -1,0 +1,25 @@
+
+    OOP question:
+        - Can you create non-abstract methods in an interface? how?
+        - A: Yes, we can. By making them static or default. I.e. public static/default void methdo(){}
+
+    Automation question:
+        - How can you move from parent to child tag in X_path?
+        - A: By using "/"
+
+    Regular Java question:
+       Task 4: What is the output?
+//        int[] arr = {1, 2, 3};
+//
+//        int max = 5;
+//
+//        for (int each : arr) {
+//            each = max;
+//        }
+//
+//        System.out.println(Arrays.toString(arr));
+
+    Non-Technical question 1: why do you want to leave your current position in ur current company x?
+
+    Non-Technical question 2: what is your expectations from us? can you please describe perfect work environment to us?
+
