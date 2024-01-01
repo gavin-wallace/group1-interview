@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e836f35f-b69c-4f27-8808-0ffe70259801" name="Changes" comment="Gavin Commit - December 15, 2023">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Java.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/SoftSkills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/JavaPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Pages/DocuportMyUploadsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/UseSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/Java_Questions_Day_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/Java_Questions_Day_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/SoftSkills_And_Automation_Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/SoftSkills_And_Automation_Questions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Automation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Automation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,33 +36,100 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2ZaztW4sRxfWdNit2ybrWclMBvX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/primarypc/Library/Mobile Documents/com~apple~CloudDocs/Repositories/Interview&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.UseSingleton.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Automation.executor": "Run",
+    "TestNG.Automation.name.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/primarypc/Library/Mobile Documents/com~apple~CloudDocs/Repositories/Interview",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JavaPractice">
+    <configuration name="JavaPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gavin_Study_Group.Interview_Jan01.JavaPractice" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gavin_Study_Group.Interview_Jan01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gavin_Study_Group.Interview_Jan01.UseSingleton" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gavin_Study_Group.Interview_Jan01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gavin_Study_Group.Interview_Jan01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Gavin_Study_Group.Interview_Jan01" />
+      <option name="MAIN_CLASS_NAME" value="Gavin_Study_Group.Interview_Jan01.Automation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Automation.name" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Gavin_Study_Group.Interview_Jan01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Gavin_Study_Group.Interview_Jan01" />
+      <option name="MAIN_CLASS_NAME" value="Gavin_Study_Group.Interview_Jan01.Automation" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleTest.method" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Interview" />
       <option name="PACKAGE_NAME" value="" />
@@ -73,6 +144,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaPractice" />
+        <item itemvalue="TestNG.Automation.name" />
+        <item itemvalue="TestNG.Automation" />
+        <item itemvalue="Application.UseSingleton" />
         <item itemvalue="TestNG.SampleTest.method" />
       </list>
     </recent_temporary>
@@ -96,11 +171,6 @@
       <workItem from="1702677458742" duration="456000" />
       <workItem from="1702680194632" duration="4000" />
       <workItem from="1702689523138" duration="21000" />
-      <workItem from="1703783755090" duration="3143000" />
-      <workItem from="1704108581656" duration="4968000" />
-      <workItem from="1704126512727" duration="8000" />
-      <workItem from="1704126827498" duration="202000" />
-      <workItem from="1704127200089" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="Gavin Commit - December 15, 2023">
       <option name="closed" value="true" />
