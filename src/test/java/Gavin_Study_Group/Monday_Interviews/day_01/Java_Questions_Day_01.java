@@ -1,7 +1,5 @@
 package Gavin_Study_Group.Monday_Interviews.day_01;
 
-import Tasks_HomeWorks.day15_tasks.CoolName;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

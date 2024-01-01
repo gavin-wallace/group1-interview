@@ -9,6 +9,13 @@ public class SoftSkills_And_Automation_Questions {
 
     Automation:
     2. locators; xpath, css?
-    3. https://www.azal.az/en/index.html --> get the "Flight date" text message and print it our on the screen
+    2. how do you handle dynamic locators?
+    3. what is the differnce between getText and getAttribute methods?
+    4. https://www.azal.az/en/index.html --> get the "Flight date" text message and print it our on the screen
+     */
+
+    /*
+    write a code to retrun a string like below:
+    aaaabbcccdda --> a4b2c3d2a
      */
 }

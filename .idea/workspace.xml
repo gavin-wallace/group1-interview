@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e836f35f-b69c-4f27-8808-0ffe70259801" name="Changes" comment="Gavin Commit - December 15, 2023">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Automation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Interview_Jan01/SoftSkills.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/Java_Questions_Day_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/Java_Questions_Day_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/SoftSkills_And_Automation_Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Gavin_Study_Group/Monday_Interviews/day_01/SoftSkills_And_Automation_Questions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +96,11 @@
       <workItem from="1702677458742" duration="456000" />
       <workItem from="1702680194632" duration="4000" />
       <workItem from="1702689523138" duration="21000" />
+      <workItem from="1703783755090" duration="3143000" />
+      <workItem from="1704108581656" duration="4968000" />
+      <workItem from="1704126512727" duration="8000" />
+      <workItem from="1704126827498" duration="202000" />
+      <workItem from="1704127200089" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="Gavin Commit - December 15, 2023">
       <option name="closed" value="true" />
