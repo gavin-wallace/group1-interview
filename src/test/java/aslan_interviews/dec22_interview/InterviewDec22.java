@@ -1,4 +1,4 @@
-package aslan_interviews;
+package aslan_interviews.dec22_interview;
 
 public class InterviewDec22 {
     /*
