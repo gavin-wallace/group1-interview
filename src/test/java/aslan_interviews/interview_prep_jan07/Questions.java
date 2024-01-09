@@ -117,6 +117,15 @@ public class Questions {
         // How does your company incorporate CI/CD
         // How do you manage Jenkins
         // Questions associated with driver creation, bonigarcia
+
+        Java task
+        //What version of java do you use on your project
+        //what was introduced in Java 8 ()
+        //where does .forEach() come from
+
+        Automation
+        //update the interview project and rerun the task using incorporating testng and cucumber
+
      */
 
 
