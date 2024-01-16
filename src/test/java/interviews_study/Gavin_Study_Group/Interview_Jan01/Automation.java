@@ -23,7 +23,7 @@ public class Automation {
 
     WebDriverWait wait;
 
-    @Test
+    @Test (priority = 1)
     public void name (){
         getUsername().sendKeys(USERNAME_ClIENT);
         getPassword().sendKeys(PASSWORD);

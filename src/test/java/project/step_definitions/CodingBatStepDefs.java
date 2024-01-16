@@ -26,14 +26,24 @@ public class CodingBatStepDefs {
 
     //---   Scenario: Coding Bat Login
 
-    @When("the user clicks each Java problem group and each task")
-    public void the_user_clicks_each_task() {
-        clickEachProblemAndTask();
+    @When("the user enters their id or email")
+    public void the_user_enters_their_id_email() {
+        getIdOrEmail().sendKeys("gwwlax@gmail.com");
     }
 
-    @Then("the user prints each Java task link and webpage title")
-    public void the_user_prints_and_validates_each_task() {
-        assertTrue(getDriver().getTitle().contains("CodingBat Java"));
+    @When("the user enters their password")
+    public void the_user_enters_their_password() {
+        getPassword().sendKeys(getProperty("txt"));
+    }
+
+    @When("the user clicks login")
+    public void the_user_clicks_login() {
+        getLogin().click();
+    }
+
+    @Then("the user is logged in")
+    public void the_user_is_logged_in() {
+        assertTrue(getLogout().isDisplayed());
     }
 
     //--   Scenario: Validate and print Java Help links
@@ -62,25 +72,16 @@ public class CodingBatStepDefs {
 
     //---   Scenario: Print all Java task links and webpage title
 
-    @When("the user enters their id or email")
-    public void the_user_enters_their_id_email() {
-        getIdOrEmail().sendKeys("gwwlax@gmail.com");
+    @When("the user clicks each Java problem group and each task")
+    public void the_user_clicks_each_task() {
+        clickEachProblemAndTask();
     }
 
-    @When("the user enters their password")
-    public void the_user_enters_their_password() {
-        getPassword().sendKeys(getProperty("txt"));
+    @Then("the user prints each Java task link and webpage title")
+    public void the_user_prints_and_validates_each_task() {
+        assertTrue(getDriver().getTitle().contains("CodingBat Java"));
     }
 
-    @When("the user clicks login")
-    public void the_user_clicks_login() {
-        getLogin().click();
-    }
-
-    @Then("the user is logged in")
-    public void the_user_is_logged_in() {
-        assertTrue(getLogout().isDisplayed());
-    }
 
     //--   Scenario: Print all Python task links and webpage title
 
