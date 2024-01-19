@@ -23,6 +23,7 @@ public class IterationThroughMap {
         while (iterator.hasNext()){   //then with help of Entry Object we will get all keys and values
         Map.Entry<String,String> entry = iterator.next();   // then with the help of getKey and getValue methods we will print out keys and values
         System.out.println(entry.getKey() + "|" + entry.getValue());
+
     }
 }
 }
