@@ -11,7 +11,7 @@ public class IterationThroughMap {
         names.put("Turkey", "Ankara");
         names.put("USA", "Washington D.C.");
 
-    // names.entrySet().iterator(); //in this way we can call iterator method , then need to asign this method to variable
+    // names.entrySet().iterator(); //in this way we can call iterator method, then need to assign this method to variable
     // The Map.entrySet method returns a collection-view of the map, whose elements are of this class.
 
     //Basically it contains the [key, value] pairs for each element
@@ -21,7 +21,7 @@ public class IterationThroughMap {
     //let`s print all the keys and values
 
         while (iterator.hasNext()){   //then with help of Entry Object we will get all keys and values
-        Map.Entry<String,String> entry = iterator.next();   // then with the help of getKey and getValue methods we will print out keys and values
+        Map.Entry<String,String> entry = iterator.next();   // then with the help of getKey and getValue methods, we will print out keys and values
         System.out.println(entry.getKey() + "|" + entry.getValue());
 
     }

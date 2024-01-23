@@ -15,7 +15,7 @@ import static org.junit.Assert.assertTrue;
 public class BrowserUtilities {
 
     /**
-     * validate if driver switched to expected url and title
+     * validate if a driver switched to expected url and title
      * @param driver
      * @param expectedUrl
      * @param expectedTitle
@@ -75,7 +75,7 @@ public class BrowserUtilities {
     }
 
     /**
-     * Moves the mouse to given element
+     * Moves the mouse to give an element
      * @param element on which to hover
      * @author Aslan
      */
